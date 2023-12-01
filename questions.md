@@ -73,21 +73,21 @@
 # 73.Program for dynamic memory allocation.
 # 74.Program for resizing and releasing of memory.
 # 75.Program for static variable.
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+# 76.Program for case operator.
+# 77.Program for integer promotion.
+# 78.Program for typedef.
+# 79.Program for bitwise left shift operator.
+# 80.Program for float.
+# 81.Program for bitwise complement.
+# 82.Program for bitwise AND.
+# 83.Program for getting remainder.
+# 84.Program for ternary operator.
+# 85.Program for structure in C.
+# 86.Program for nested structure.
+# 87.Program for structure pointer.
+# 88.Program for passing structure to function.
+# 89.Program for union.
+# 90.Program for Intersection.
 #
 #
 #
